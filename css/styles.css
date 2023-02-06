@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(178, 207, 245);
+}
+p{
+color: rgb(106, 11, 137);
+/*กำหนด hr ไข่ปลา*/
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: antiquewhite;
+    border-width: 5px;
+    width: 20%;
+
+}
+ img{
+    background-color: rgb(204, 227, 247);
+ }
+ .Tomato{
+    background-color: aliceblue;
+ }
+
+ .circular{
+    border-radius: 20%;
+ }
+ #heading{
+    color:rgb(237, 174, 207)
+    font-style: italig;
+ }
